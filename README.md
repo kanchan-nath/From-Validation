@@ -68,6 +68,7 @@ form-validation/
 ├── style.css
 ├── script.js
 └── README.md
+```
 
 <!-- AUTHOR_START -->
 ---
